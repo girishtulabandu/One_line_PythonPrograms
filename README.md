@@ -8,8 +8,9 @@ This repository holds simple/complex python programs that can be written in sing
   * Do not add print statements 
   * Do not hardcode any variables
   * Your script file should contain only two lines.
-     1. comment (what your program does)
+     1. comment (what your program does) (can be multiline comment)
      2. Your actual program in single line
+  * Your comment should contain sample input and expected output
   * Your file name should also contain only the program name.
   * Read contribute.md file to know "How to contribute to this repository"
  
