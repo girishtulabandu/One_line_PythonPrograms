@@ -1,0 +1,2 @@
+# It takes a string and list of numbers as input and returns string and number seperated by comma.
+def concat(string, numbers): return ', '.join(map(lambda s,n:s+str(n), [string for i in numbers], numbers))
