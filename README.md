@@ -1,6 +1,6 @@
 # One_line_PythonPrograms
 
-This repository holds simple/complex pyhton programs that can be written in single line.
+This repository holds simple/complex python programs that can be written in single line.
 
 # Contribution Guidelines
   * Kindly check the repository and active PR's before making PR to avoid duplicate programs
