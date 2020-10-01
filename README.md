@@ -8,7 +8,7 @@ This repository holds simple/complex pyhton programs that can be written in sing
   * Do not add print statements 
   * Do not hardcode any variables
   * Your script file should contain only two lines.
-     1. comment (your program name)
+     1. comment (what your program does)
      2. Your actual program in single line
   * Your file name should also contain only the program name.
   * Read contribute.md file to know "How to contribute to this repository"
