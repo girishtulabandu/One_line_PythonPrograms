@@ -24,7 +24,7 @@ Change into that project directory (One_line_PythonPrograms):
 $ cd One_line_PythonPrograms
 
 Add a connection to the original owner’s repository.
-$ git remote add upstream https://github.com/girishtulabandu/ç
+$ git remote add upstream https://github.com/girishtulabandu/One_line_PythonPrograms
 
 To check this remote add set up:
 $ git remote -v
