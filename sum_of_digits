@@ -1,0 +1,2 @@
+#sum of digits in a number
+sm=(sum(int(digit) for digit in str(number)))
