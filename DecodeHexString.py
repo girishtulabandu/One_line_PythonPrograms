@@ -1,0 +1,2 @@
+# Decode string written in Hex, input = 4861707079204861636b746f62657266657374 output = Happy Hacktoberfest
+print(''.join(chr(int(''.join(i), 16)) for i in zip(*[iter('4861707079204861636b746f62657266657374')]*2)))
