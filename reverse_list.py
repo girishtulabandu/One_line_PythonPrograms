@@ -3,4 +3,4 @@
  Input : ls = [1, 2, 3]
  Output : ls = [3, 2, 1]
 """
-ls.reverse()
+ls = ls[::-1]
