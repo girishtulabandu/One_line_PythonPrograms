@@ -1,4 +1,3 @@
-#Pythagorean theorem calculator
 #input side a and side b
 #Input:
 #pytagorean(3,4)
