@@ -3,4 +3,5 @@
 #pytagorean(3,4)
 #Output:
 #5.0
+
 pytagorean = lambda a, b : ((a * a + b * b)**(1/2))
