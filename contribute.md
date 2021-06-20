@@ -1,8 +1,9 @@
-
 # How to Contribute
+
 This repository holds simple/complex pyhton programs that can be written in single line and we would be happy to see contributors who're intrested in this.
 
 ## Branch Policy
+
 Sending pull requests:
 Go to the repository on GitHub at https://github.com/girishtulabandu/One_line_PythonPrograms
 
@@ -14,7 +15,7 @@ Open a terminal/shell.
 
 Type
 
-$ git clone https://github.com/<your username>/One_line_PythonPrograms
+$ git clone https://github.com/\<your username>/One_line_PythonPrograms
 
 where 'username' is your username.
 
@@ -35,13 +36,14 @@ git add and git commit those changes
 git push them back to GitHub. These will go to your version of the repository.
 
 ## Squashing your's changes
+
 Before you make Pull Request, you should squash your commits into one.
 
 Go into the directory for the project and type:
 
-git checkout my_branch 
-git reset --soft HEAD~Number 
-git commit 
+git checkout my_branch
+git reset --soft HEAD~Number
+git commit
 git push --force origin my_branch
 
 where 'Number' is the number of commits to squash and 'my_branch 'is your branch name.
@@ -51,6 +53,7 @@ This will squash your commits into one single commit.
 Now push them and Create A PR.
 
 ## Now Create a PR (Pull Request)
+
 Go to your version of the repository on GitHub.
 
 Click the “New pull request” button at the top.
@@ -62,6 +65,7 @@ Click the green button “Create pull request”. Give a succinct and informativ
 Best Practices: Create a seperate Branch for Raising PR's to maintain a clean workflow.
 
 ## Pulling others’ changes
+
 Before you make further changes to the repository, you should check that your version is up to date relative to One_line_PythonPrograms version.
 
 Go into the directory for the project and type:
