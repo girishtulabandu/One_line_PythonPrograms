@@ -1,0 +1,5 @@
+#atmosphere pressure conversion from torr pressure from 1 to n
+input: torr=800
+output: atmosphere= 1.05
+
+atmosphere= (torr/760)
