@@ -1,0 +1,2 @@
+#Prints out if the input number is even or odd ;Ex 1: Sample Input : 6,Expected Output :even ;Ex 2: Sample Input : 3,Expected Output : 5
+result = "even" if int(input()) % 2 == 0 else "odd" 
